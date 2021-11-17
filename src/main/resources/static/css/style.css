@@ -1,0 +1,27 @@
+html, body { height: 100%;
+    background-color: antiquewhite; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container{
+    align-items: center;
+}
+
+.container{
+    width: 700px;
+}
+
+.card{
+    margin-top: 100px;
+}
+
+.card-header{
+    font-size: 25px;
+    background-color: rgb(130, 130, 180);
+    color: white;
+}
+
+.btn{
+    background-color:rgb(130, 130, 180);
+    color:white;
+    margin-left: 10px;
+}
